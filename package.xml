@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>gpg_odm</name>
+  <name>gpg</name>
   <version>0.0.0</version>
   <description>The gpg_odm package</description>
 
